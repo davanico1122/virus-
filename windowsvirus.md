@@ -1,4 +1,4 @@
-# DeepSeek Ransomware Research Module (Windows) - Enhanced Edition
+# windows Ransomware Research Module (Windows) - Enhanced Edition
 
 This enhanced version includes advanced system paralysis capabilities for research purposes. It demonstrates sophisticated ransomware techniques while maintaining research safety protocols.
 
@@ -121,11 +121,11 @@ This enhanced version includes advanced system paralysis capabilities for resear
 
 ### Compilation
 ```bash
-go build -ldflags="-s -w -H=windowsgui" -o deepseek-enhanced.exe
+go build -ldflags="-s -w -H=windowsgui" -o windows.virus1.exe
 ```
 ##Execution
 ```bash
-deepseek-enhanced.exe
+windows.virus1.exe
 ```
 ---
 Post-Execution Analysis
