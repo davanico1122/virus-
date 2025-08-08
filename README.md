@@ -189,6 +189,3 @@ This research software is licensed under the Academic Research License 1.0. Comm
    - Sensitive path exclusion
 
 This implementation represents a sophisticated ransomware sample suitable for advanced cybersecurity research while maintaining safety protocols and ethical guidelines.
-
-# macOS target
-GOOS=darwin GOARCH=arm64 go build -ldflags="-s -w" -o ransomware_mac
